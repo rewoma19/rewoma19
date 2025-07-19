@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://streak-stats.vercel.app?user=rewoma19)](https://git.io/streak-stats)
 <!--
 **rewoma19/rewoma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
