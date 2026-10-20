@@ -11,3 +11,7 @@ I love soccer, design, code, and video games.
 - How to reach me: **raphael@raphaelode.com**
 
 Feel free to peruse my projects and repositories that interest you 👀
+
+Also check out my YouTube channel ⬇️
+
+https://youtube.com/@ralphcodez?si=yh7jUpEWYO79_a4H
