@@ -1,15 +1,13 @@
-## Hi there 👋
-<!--
-**rewoma19/rewoma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello there!
 
-Here are some ideas to get you started:
+My name is **Raphael**. I am a junior Computer Science major and Psychology minor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love soccer, design, code, and video games.
+
+- I am currently learning the C# programming language, and Unity for 2D game development.
+
+- Looking forward to collaborating with other designers, developers, and entrepreneurs to create fun and engaging games!
+  
+- How to reach me: **raphael@raphaelode.com**
+
+Feel free to peruse my projects and repositories that interest you 👀
