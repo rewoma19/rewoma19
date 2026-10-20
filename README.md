@@ -4,7 +4,7 @@ My name is **Raphael**. I am a junior Computer Science major and Psychology mino
 
 I love soccer, design, code, and video games.
 
-- I am currently learning the C# programming language, and Unity for 2D game development.
+- I am currently learning the C# programming language, and Unity for 2D game development, along with other things.
 
 - Looking forward to collaborating with other designers, developers, and entrepreneurs to create fun and engaging games!
   
