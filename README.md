@@ -17,3 +17,5 @@ Feel free to peruse my projects and repositories that interest you 👀
 Also check out my YouTube channel ⬇️
 
 https://youtube.com/@ralphcodez?si=yh7jUpEWYO79_a4H
+
+Or show some love by buying me [coffee](https://buymeacoffee.com/raphaelode) ❤️☕️
